@@ -1,0 +1,1 @@
+export const applicationurl: string = "https://demoqa.com/books";
